@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{038967D5-ED3E-62BB-0ECE-8628B0FF53D0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ClickButton.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DecideQuestion.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/ClickButton.cs" Line="9" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="jyro" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ClickButton.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e08d699e-88c0-40e2-9c7e-8baa44bf8b3e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
