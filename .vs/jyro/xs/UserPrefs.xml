@@ -1,16 +1,22 @@
 ﻿<Properties StartupConfiguration="{038967D5-ED3E-62BB-0ECE-8628B0FF53D0}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ClickButton.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shooting/Scripts/Score.cs">
     <Files>
-      <File FileName="Assets/Scripts/DecideQuestion.cs" Line="10" Column="1" />
-      <File FileName="Assets/Scripts/ClickButton.cs" Line="9" Column="23" />
+      <File FileName="Assets/NumberGame_data/Scripts/DisplayNumber.cs" Line="51" Column="1" />
+      <File FileName="Assets/NumberGame_data/Scripts/ClickButton.cs" Line="36" Column="55" />
+      <File FileName="Assets/Shooting/Scripts/Score.cs" Line="4" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="jyro" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="ClickButton.cs" selected="True" />
+              <Node name="NumberGame_data" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="Shooting" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Score.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -20,7 +26,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e08d699e-88c0-40e2-9c7e-8baa44bf8b3e" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5c55b096-317e-44ee-92a8-18719af72d5d" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

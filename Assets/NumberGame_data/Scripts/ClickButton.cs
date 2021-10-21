@@ -13,13 +13,18 @@ namespace NumberGame
 
         private bool isClick;
 
+        private DisplayNumber displayNumber;
+        [SerializeField] private GameObject manager;
+
         private void Awake()
         {
+            button = this.gameObject.GetComponent<Button>();
             button.onClick.AddListener(GetNum);
+            displayNumber = manager.GetComponent<DisplayNumber>();
         }
 
 
-        void GetNum()
+        private void GetNum()
         {
             if (isClick)
             {
@@ -27,7 +32,8 @@ namespace NumberGame
 
                 StartCoroutine(IsPushTimer());
             }
-            
+
+            displayNumber.UpdateDictionary(buttonNum);            
         }
 
         private IEnumerator IsPushTimer()
